@@ -1,5 +1,7 @@
-hradec
-======
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/hradec?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# NodeSchool Hradec Králové
 
-repo for organizing nodeschools in Hradec Kralove
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/hradec-kralove?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Repo for organizing nodeschools in Hradec Kralove.
+
+Coming soon - stay tuned.
