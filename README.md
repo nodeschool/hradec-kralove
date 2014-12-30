@@ -4,4 +4,9 @@
 
 Repo for organizing nodeschools in Hradec Kralove.
 
-Coming soon - stay tuned.
+## Dates and registrations
+
+See srazy.info (eventle.com) for the list of dates and registrations:
+
+ - Czech: [nodeschool at srazy.info](http://srazy.info/nodeschool/terminy/)
+ - English: [nodeschool at eventle.com](http://eventle.com/nodeschool/dates/)
